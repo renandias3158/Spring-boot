@@ -4,6 +4,10 @@ public class Aluno extends Usuario{
     
     private String matricula;
     
+        public Aluno(){
+        super("", "", 0, "");
+        
+        }
 public Aluno(String nome, String emailPessoal, int
     idade, String cpf, String matricula){
     super(nome, emailPessoal, idade, cpf);
@@ -11,7 +15,7 @@ public Aluno(String nome, String emailPessoal, int
     this.matricula = matricula;
     
     }
-    
+
 public String getMatricula(){
     
 return this.matricula;
