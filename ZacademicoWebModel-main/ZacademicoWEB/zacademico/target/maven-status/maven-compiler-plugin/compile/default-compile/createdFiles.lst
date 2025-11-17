@@ -1,9 +1,0 @@
-br\ifpe\zacademico\model\Escola.class
-br\ifpe\zacademico\model\Professor.class
-br\ifpe\zacademico\model\Aluno.class
-br\ifpe\zacademico\model\AlunoDAO.class
-br\ifpe\zacademico\model\Usuario.class
-br\ifpe\zacademico\ZacademicoApplication.class
-br\ifpe\zacademico\model\tecAdm.class
-br\ifpe\zacademico\spring_boot\AlunoController.class
-br\ifpe\zacademico\model\GrupoPesquisas.class
